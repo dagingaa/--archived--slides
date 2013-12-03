@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "What the h#\"% is WebRTC?",
+    "packageVersion": "0.0.1",
+    "useSass": true
+  }
+}

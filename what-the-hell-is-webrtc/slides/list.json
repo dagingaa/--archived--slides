@@ -1,0 +1,129 @@
+[
+    "index.md",
+    [
+        "well-what-is-webrtc.md",
+        "peer-to-peer-networking-in-the-browser.md",
+        "you-can-send.md",
+        "at-almost-no-cost-to-you.html",
+        "what-can-i-create-with-it.html",
+        "appearin.html",
+        "sharefestme.html",
+        "webtorrents.md",
+        "peercdn.md",
+        "big-corporate-events.md",
+        "webrtc-is-a-relly-big-deal.md"
+    ],
+    [
+        "a-brief-history-of-webrtc.md",
+        "some-dates.md",
+        "iswebrtcreadyyetcom.md",
+        "iswebrtcreadyappearin.md",
+        {
+            "attr": {
+                "data-background": "https://s3.amazonaws.com/media-p.slid.es/uploads/dagingaa/images/170231/Screen_Shot_2013-11-27_at_22.20.20.png"
+            }
+        }
+    ],
+    [
+        "but-how-do-i-use-it.md",
+        "get-access-to-the-webcam.md",
+        "sending-it-over-the-wire.md",
+        "get-the-local-stream-and-send-it.md",
+        "signalling-bits.md",
+        "rtcpeerconnectiononaddstream.md",
+        "its-not-always-that-easy.md",
+        "ocean-of-acronyms.md",
+        "20-of-peers-needs-to-turn.md",
+        "this-all-sounds-very-complicated.md",
+        "simplewebrtc.md"
+    ],
+    [
+        "a-slightly-not-so-brief-history-of-appearin.md",
+        {
+            "filename": "it-all-began-with-the-interns.md",
+            "attr": {
+                "data-background": "https://s3.amazonaws.com/media-p.slid.es/uploads/dagingaa/images/174666/Photo_05.08.13_17_03_04.jpg"
+            }
+        },
+        "launched-while-all-the-grownups-were-on-holiday.md",
+        "journalist-at-digino.md",
+        {
+            "filename": "saw-great-potential.md",
+            "attr": {
+                "data-background": "http://i.imgur.com/2XtX4rq.jpg"
+            }
+        },
+        {
+            "filename": "new-design.md",
+            "attr": {
+                "data-background": "https://s3.amazonaws.com/media-p.slid.es/uploads/dagingaa/images/176169/videoconference_appear.png"
+            }
+        },
+        "teamed-up-with-opera.md",
+        "users-blog-about-us.md",
+        {
+            "filename": "antyweb.md",
+            "attr": {
+                "data-background": "https://s3.amazonaws.com/media-p.slid.es/uploads/dagingaa/images/176155/Screen_Shot_2013-08-06_at_1.49.37_PM.png"
+            }
+        },
+        {
+            "filename": "mexican-article.md",
+            "attr": {
+                "data-background": "https://s3.amazonaws.com/media-p.slid.es/uploads/dagingaa/images/176159/Screen_Shot_2013-12-03_at_10.36.12.png"
+            }
+        },
+        {
+            "filename": "spillmatic.md",
+            "attr": {
+                "data-background": "https://s3.amazonaws.com/media-p.slid.es/uploads/dagingaa/images/176162/unnamed-1-640x479.jpg"
+            }
+        },
+        {
+            "filename": "korben.md",
+            "attr": {
+                "data-background": "https://s3.amazonaws.com/media-p.slid.es/uploads/dagingaa/images/176163/Screen_Shot_2013-12-03_at_10.38.37.png"
+            }
+        },
+        {
+            "filename": "arabic-article.md",
+            "attr": {
+                "data-background": "http://i.imgur.com/DHSE7yb.png"
+            }
+        },
+        "used-globally.md",
+        "rooms-used.md"
+    ],
+    [
+        "architecture-and-technology.md",
+        {
+            "filename": "architecture-overview.md",
+            "attr": {
+                "data-background": "http://i.imgur.com/rY2dZvN.png"
+            }
+        },
+        "60-of-the-world-is-good-enough.md"
+    ],
+    [
+        "how-do-we-work.md",
+        "github.md",
+        "waffleio.md",
+        {
+            "filename": "go-talk-to-users.md",
+            "attr": {
+                "data-background": "https://s3.amazonaws.com/media-p.slid.es/uploads/dagingaa/images/174532/bilde_3.JPG"
+            }
+        },
+        "one-week-sprints.md",
+        "analytics.md"
+    ],
+    [
+        "where-do-we-go-from-here.md",
+        "buttloads-of-users.md",
+        "drive-development-of-webrtc.md",
+        "better-mobile-support.md",
+        "retention-mechanisms.md",
+        "kickass-service.md",
+        "one-more-thing.md"
+    ]
+]
