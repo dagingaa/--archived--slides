@@ -1,4 +1,4 @@
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - Quickly established a team
+    - If you have time, introduce everyone

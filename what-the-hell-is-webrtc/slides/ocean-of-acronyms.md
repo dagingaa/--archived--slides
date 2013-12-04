@@ -8,5 +8,8 @@
 <span class="highlight">TURN</span> - Traversal Using Relays around NAT<br>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - And with that, I ahve to introduce you to WebRTC and the ocean of acronyms
+    - Most users are behind a NAT, causes problems for P2P connectivity
+    - Some NATs we can traverse, use Google's STUN server to find ICE candidates
+    - Some NATs can't be traversed, we use a relay server
+    - Currently not possible to create super nodes like what Skype has

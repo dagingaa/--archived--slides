@@ -1,4 +1,3 @@
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - This is an article from a tech blog in mexico

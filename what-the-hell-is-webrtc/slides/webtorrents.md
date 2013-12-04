@@ -5,5 +5,7 @@
 [https://github.com/feross/webtorrent](https://github.com/feross/webtorrent)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - A guy is recreating the torrent protocol to enable large scale file
+      distribution, right in the browser
+    - No need to install anything
+    - Still not functional, we need stream rebroadcasting

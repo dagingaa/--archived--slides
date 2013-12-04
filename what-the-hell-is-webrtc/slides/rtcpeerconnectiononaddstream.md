@@ -7,7 +7,3 @@ pc.onaddstream = function (e) {
     remoteView.src = URL.createObjectURL(e.stream);
 }
 ````
-
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
