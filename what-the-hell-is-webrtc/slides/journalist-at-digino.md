@@ -3,5 +3,8 @@
 ![digi piece](https://s3.amazonaws.com/media-p.slid.es/uploads/dagingaa/images/176143/Digi.no-Aug6.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - A journalist at digi.no picked up the launch
+    - Called our boss, Sven (pictured), was on vacation
+    - Wrote a really great article about our launch
+    - Our servers melted again, got it working after a long day and lots of pizza
+    - We knew that when journalists started contacting US for stories, we had someting great

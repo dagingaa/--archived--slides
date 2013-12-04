@@ -20,5 +20,4 @@ navigator.getUserMedia({ "audio": true, "video": true },
 ````
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - So now we need to get the local stream and send it

@@ -1,5 +1,5 @@
 ## Appear.in architecture and technology
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - Let's move over to something a bit more technical again
+    - How is it all built?

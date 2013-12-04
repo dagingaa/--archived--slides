@@ -1,5 +1,5 @@
 ##  But, how do I use it?
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - So, I peaked your interest, now you want to know how to use it
+    - Ask the audience: how many have tried playting around with WebRTC?

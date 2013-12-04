@@ -1,4 +1,3 @@
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - Arabic page, not sure we have translated this yet?

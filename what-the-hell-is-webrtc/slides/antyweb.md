@@ -1,4 +1,4 @@
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - One of the first to pick us up after digi
+    - Polish tech website

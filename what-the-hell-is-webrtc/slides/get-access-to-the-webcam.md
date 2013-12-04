@@ -9,5 +9,6 @@ navigator.getUserMedia({video: true, audio: true},
 ````
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - Let's start with the easy part, getUserMedia
+    - Allows you to stream webcam and microphone output to a video element
+    - THis example is a bit cheating, we also need the HTML

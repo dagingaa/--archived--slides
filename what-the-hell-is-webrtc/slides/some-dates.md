@@ -11,5 +11,12 @@
 <span class="highlight">Nov 2013:</span> Opera 18 has support for WebRTC<br>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - May 2011 it was open sourced
+    - Jan 2012 able to play with it
+    - Hit stable first in December
+    - Firefox and Chrome was finally interoperable
+    - March was the first commercially viable service
+    - June 2013 hit Firefox stable
+    - We launched in August
+    - Quickly followed by mobile support
+    - Opera launched in November, as the third browser with interoperability
