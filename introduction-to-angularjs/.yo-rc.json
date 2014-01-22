@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Introduction to AngularJS",
+    "packageVersion": "0.0.1",
+    "useSass": true
+  }
+}

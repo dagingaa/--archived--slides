@@ -1,0 +1,10 @@
+[
+    "index.md",
+    "who-am-i.md",
+    [
+        "so-what-is-angularjs.md",
+        "a-very-basic-example.md",
+        "a-closer-look-at-the-template.md"
+    ],
+    "compiling-the-template.md"
+]
