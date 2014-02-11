@@ -1,0 +1,59 @@
+[
+    "index.md",
+    [
+        {
+            "filename": "it-all-began-with-the-interns.md",
+            "attr": {
+                "data-background": "https://s3.amazonaws.com/media-p.slid.es/uploads/dagingaa/images/174666/Photo_05.08.13_17_03_04.jpg"
+            }
+        },
+        "launched-while-all-the-grownups-were-on-holiday.md",
+        "journalist-at-digino.md",
+        "teamed-up-with-opera.md",
+        "used-globally.md",
+        {
+            "filename": "arabic-article.md",
+            "attr": {
+                "data-background": "http://i.imgur.com/DHSE7yb.png"
+            }
+        },
+        "smashing-magazine.md"
+    ],
+    [
+        "well-what-is-webrtc.md",
+        "peer-to-peer-networking-in-the-browser.md",
+        "you-can-send.md",
+        "at-almost-no-cost-to-you.html",
+        "what-can-i-create-with-it.html",
+        "appearin.html",
+        "sharefestme.html",
+        "webtorrents.md",
+        "webrtc-is-a-relly-big-deal.md"
+    ],
+    [
+        "a-brief-history-of-webrtc.md",
+        "some-dates.md",
+        "iswebrtcreadyyetcom.md",
+        "60-of-the-world-is-good-enough.md",
+        "iswebrtcreadyappearin.md"
+    ],
+    [
+        "but-how-do-i-use-it.md",
+        "what-does-thomas-know.md",
+        "thomas-knows-shit.md",
+        "really-hard-stuff-is-done.md",
+        "need-infrastructure.md",
+        "what-is-signaling.md",
+        "its-not-always-that-easy.md",
+        "20-of-peers-needs-to-turn.md",
+        "this-all-sounds-very-complicated.md",
+        "simplewebrtc.md"
+    ],
+    [
+        "architecture-and-technology.md",
+        "architecture-overview.md"
+    ],
+    [
+        "thank-you.md"
+    ]
+]
